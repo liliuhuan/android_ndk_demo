@@ -1,0 +1,8 @@
+Executable : F:\soft\AndroidSDK\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+--build
+G:\android-ndk\hello-jni\basic\.externalNativeBuild\cmake\debug\armeabi-v7a
+--target
+clean
+jvmArgs : 
+

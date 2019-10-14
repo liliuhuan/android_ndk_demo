@@ -1,0 +1,35 @@
+#Internal package file, do not edit.
+#Mon Oct 14 18:14:43 CST 2019
+7.path=classes.dex
+2.base=G\:\\android-ndk\\hello-jni\\native-audio\\build\\intermediates\\merged_assets\\debug\\out
+5.set=NATIVE_RESOURCE
+0.path=lib/arm64-v8a/libnative-audio-jni.so
+2.baseType=DIRECTORY
+3.base=G\:\\android-ndk\\hello-jni\\native-audio\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+7.baseType=DIRECTORY
+2.set=ASSET
+1.path=background.mp3
+4.base=G\:\\android-ndk\\hello-jni\\native-audio\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+7.set=DEX
+count=8
+5.baseType=DIRECTORY
+2.path=README.txt
+5.base=G\:\\android-ndk\\hello-jni\\native-audio\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+4.set=NATIVE_RESOURCE
+3.path=classes.dex
+6.base=G\:\\android-ndk\\hello-jni\\native-audio\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=lib/x86/libnative-audio-jni.so
+7.base=G\:\\android-ndk\\hello-jni\\native-audio\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+6.set=NATIVE_RESOURCE
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=lib/x86_64/libnative-audio-jni.so
+0.base=G\:\\android-ndk\\hello-jni\\native-audio\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+0.baseType=DIRECTORY
+3.set=DEX
+6.path=lib/armeabi-v7a/libnative-audio-jni.so
+1.base=G\:\\android-ndk\\hello-jni\\native-audio\\build\\intermediates\\merged_assets\\debug\\out
+4.baseType=DIRECTORY
+0.set=NATIVE_RESOURCE

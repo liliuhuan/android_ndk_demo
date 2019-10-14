@@ -1,0 +1,61 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\android_ndk_demo\accelerometer\src\main\AndroidManifest.xml:21:1-39:12
+INJECTED from G:\android_ndk_demo\accelerometer\src\main\AndroidManifest.xml:21:1-39:12
+INJECTED from G:\android_ndk_demo\accelerometer\src\main\AndroidManifest.xml:21:1-39:12
+	package
+		ADDED from G:\android_ndk_demo\accelerometer\src\main\AndroidManifest.xml:22:5-45
+		INJECTED from G:\android_ndk_demo\accelerometer\src\main\AndroidManifest.xml
+		INJECTED from G:\android_ndk_demo\accelerometer\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\android_ndk_demo\accelerometer\src\main\AndroidManifest.xml:21:11-69
+uses-feature#0x00020000
+ADDED from G:\android_ndk_demo\accelerometer\src\main\AndroidManifest.xml:23:3-75
+	android:glEsVersion
+		ADDED from G:\android_ndk_demo\accelerometer\src\main\AndroidManifest.xml:23:17-49
+	android:required
+		ADDED from G:\android_ndk_demo\accelerometer\src\main\AndroidManifest.xml:23:50-73
+application
+ADDED from G:\android_ndk_demo\accelerometer\src\main\AndroidManifest.xml:24:5-38:19
+	android:label
+		ADDED from G:\android_ndk_demo\accelerometer\src\main\AndroidManifest.xml:28:9-60
+	android:fullBackupContent
+		ADDED from G:\android_ndk_demo\accelerometer\src\main\AndroidManifest.xml:26:9-42
+	android:icon
+		ADDED from G:\android_ndk_demo\accelerometer\src\main\AndroidManifest.xml:27:9-43
+	android:allowBackup
+		ADDED from G:\android_ndk_demo\accelerometer\src\main\AndroidManifest.xml:25:9-36
+activity#com.android.accelerometergraph.AccelerometerGraphActivity
+ADDED from G:\android_ndk_demo\accelerometer\src\main\AndroidManifest.xml:29:7-37:18
+	android:launchMode
+		ADDED from G:\android_ndk_demo\accelerometer\src\main\AndroidManifest.xml:31:17-48
+	android:configChanges
+		ADDED from G:\android_ndk_demo\accelerometer\src\main\AndroidManifest.xml:32:17-67
+	android:theme
+		ADDED from G:\android_ndk_demo\accelerometer\src\main\AndroidManifest.xml:30:17-75
+	android:name
+		ADDED from G:\android_ndk_demo\accelerometer\src\main\AndroidManifest.xml:29:17-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\android_ndk_demo\accelerometer\src\main\AndroidManifest.xml:33:9-36:25
+action#android.intent.action.MAIN
+ADDED from G:\android_ndk_demo\accelerometer\src\main\AndroidManifest.xml:34:11-63
+	android:name
+		ADDED from G:\android_ndk_demo\accelerometer\src\main\AndroidManifest.xml:34:19-60
+category#android.intent.category.LAUNCHER
+ADDED from G:\android_ndk_demo\accelerometer\src\main\AndroidManifest.xml:35:11-71
+	android:name
+		ADDED from G:\android_ndk_demo\accelerometer\src\main\AndroidManifest.xml:35:21-68
+uses-sdk
+INJECTED from G:\android_ndk_demo\accelerometer\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\android_ndk_demo\accelerometer\src\main\AndroidManifest.xml
+INJECTED from G:\android_ndk_demo\accelerometer\src\main\AndroidManifest.xml
+INJECTED from G:\android_ndk_demo\accelerometer\src\main\AndroidManifest.xml
+INJECTED from G:\android_ndk_demo\accelerometer\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from G:\android_ndk_demo\accelerometer\src\main\AndroidManifest.xml
+		ADDED from G:\android_ndk_demo\accelerometer\src\main\AndroidManifest.xml
+		INJECTED from G:\android_ndk_demo\accelerometer\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\android_ndk_demo\accelerometer\src\main\AndroidManifest.xml
+		ADDED from G:\android_ndk_demo\accelerometer\src\main\AndroidManifest.xml
+		INJECTED from G:\android_ndk_demo\accelerometer\src\main\AndroidManifest.xml

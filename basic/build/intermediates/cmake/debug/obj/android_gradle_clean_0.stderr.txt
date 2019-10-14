@@ -1,0 +1,2 @@
+ninja: error: loading 'build.ninja': 系统找不到指定的文件。
+

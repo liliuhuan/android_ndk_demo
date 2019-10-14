@@ -1,0 +1,144 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\24f2e8e73a5f913b3769eb53b0941ee0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\eb20d08ac8138cf07b6f0a2d87499873\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\2e2f61d5074c0790fbe6d9a280013e1d\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\b422c06772870b03540d601a58a4e1aa\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\2adcaf9a011da29d75d70e0bb3091a9a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\9fe3ee5d570ef57c079cb289c0f01988\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\6de92217c8f3454eab232eb0aa7f41fe\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\feb8adb54075c27af91e6944055d1c35\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\3ad9c1d88baef7e301c4859e24660c96\AndroidManifest.xml:17:1-31:12
+INJECTED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml:3:11-44
+		INJECTED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml
+		INJECTED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml:5:11-36
+		INJECTED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml
+		INJECTED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml:4:11-34
+		INJECTED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml
+		INJECTED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml:8:3-85
+	android:name
+		ADDED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml:8:20-66
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml:10:3-94
+	android:name
+		ADDED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml:10:20-75
+uses-permission#android.permission.INTERNET
+ADDED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml:12:3-81
+	android:name
+		ADDED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml:12:20-62
+application
+ADDED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml:14:3-26:17
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\24f2e8e73a5f913b3769eb53b0941ee0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\24f2e8e73a5f913b3769eb53b0941ee0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\eb20d08ac8138cf07b6f0a2d87499873\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\eb20d08ac8138cf07b6f0a2d87499873\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\2e2f61d5074c0790fbe6d9a280013e1d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\2e2f61d5074c0790fbe6d9a280013e1d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\b422c06772870b03540d601a58a4e1aa\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\b422c06772870b03540d601a58a4e1aa\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\2adcaf9a011da29d75d70e0bb3091a9a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\2adcaf9a011da29d75d70e0bb3091a9a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\9fe3ee5d570ef57c079cb289c0f01988\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\9fe3ee5d570ef57c079cb289c0f01988\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\6de92217c8f3454eab232eb0aa7f41fe\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\6de92217c8f3454eab232eb0aa7f41fe\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\feb8adb54075c27af91e6944055d1c35\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\feb8adb54075c27af91e6944055d1c35\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\3ad9c1d88baef7e301c4859e24660c96\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\3ad9c1d88baef7e301c4859e24660c96\AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml:18:7-39
+	android:fullBackupContent
+		ADDED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml:16:7-40
+	android:icon
+		ADDED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml:17:7-41
+	android:allowBackup
+		ADDED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml:15:7-34
+activity#com.example.nativeaudio.NativeAudio
+ADDED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml:19:5-25:16
+	android:label
+		ADDED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml:20:15-47
+	android:name
+		ADDED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml:19:15-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml:21:7-24:23
+action#android.intent.action.MAIN
+ADDED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml:22:9-61
+	android:name
+		ADDED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml:22:17-58
+category#android.intent.category.LAUNCHER
+ADDED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml:23:9-69
+	android:name
+		ADDED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml:23:19-66
+uses-sdk
+INJECTED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml
+INJECTED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\24f2e8e73a5f913b3769eb53b0941ee0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\24f2e8e73a5f913b3769eb53b0941ee0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\eb20d08ac8138cf07b6f0a2d87499873\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\eb20d08ac8138cf07b6f0a2d87499873\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\2e2f61d5074c0790fbe6d9a280013e1d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\2e2f61d5074c0790fbe6d9a280013e1d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\b422c06772870b03540d601a58a4e1aa\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\b422c06772870b03540d601a58a4e1aa\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\2adcaf9a011da29d75d70e0bb3091a9a\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\2adcaf9a011da29d75d70e0bb3091a9a\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\9fe3ee5d570ef57c079cb289c0f01988\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\9fe3ee5d570ef57c079cb289c0f01988\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\6de92217c8f3454eab232eb0aa7f41fe\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\6de92217c8f3454eab232eb0aa7f41fe\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\feb8adb54075c27af91e6944055d1c35\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\feb8adb54075c27af91e6944055d1c35\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\3ad9c1d88baef7e301c4859e24660c96\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\3ad9c1d88baef7e301c4859e24660c96\AndroidManifest.xml:21:5-23:58
+INJECTED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml
+INJECTED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\24f2e8e73a5f913b3769eb53b0941ee0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml
+		ADDED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml
+		INJECTED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml
+		ADDED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml
+		INJECTED from G:\android_ndk_demo\native-audio\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\24f2e8e73a5f913b3769eb53b0941ee0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\eb20d08ac8138cf07b6f0a2d87499873\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\eb20d08ac8138cf07b6f0a2d87499873\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\2e2f61d5074c0790fbe6d9a280013e1d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\2e2f61d5074c0790fbe6d9a280013e1d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\b422c06772870b03540d601a58a4e1aa\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\b422c06772870b03540d601a58a4e1aa\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\2adcaf9a011da29d75d70e0bb3091a9a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\2adcaf9a011da29d75d70e0bb3091a9a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\9fe3ee5d570ef57c079cb289c0f01988\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\9fe3ee5d570ef57c079cb289c0f01988\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\6de92217c8f3454eab232eb0aa7f41fe\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\6de92217c8f3454eab232eb0aa7f41fe\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\feb8adb54075c27af91e6944055d1c35\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\feb8adb54075c27af91e6944055d1c35\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\3ad9c1d88baef7e301c4859e24660c96\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\3ad9c1d88baef7e301c4859e24660c96\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\24f2e8e73a5f913b3769eb53b0941ee0\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\24f2e8e73a5f913b3769eb53b0941ee0\AndroidManifest.xml:27:13-51

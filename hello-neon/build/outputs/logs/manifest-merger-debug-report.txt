@@ -1,0 +1,137 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\24f2e8e73a5f913b3769eb53b0941ee0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\4f591dcfb21b3876fc6c4be9d9250ad9\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\eb20d08ac8138cf07b6f0a2d87499873\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\2e2f61d5074c0790fbe6d9a280013e1d\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\b422c06772870b03540d601a58a4e1aa\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\2adcaf9a011da29d75d70e0bb3091a9a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\9fe3ee5d570ef57c079cb289c0f01988\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\6de92217c8f3454eab232eb0aa7f41fe\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\feb8adb54075c27af91e6944055d1c35\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\3ad9c1d88baef7e301c4859e24660c96\AndroidManifest.xml:17:1-31:12
+INJECTED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml
+		INJECTED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml
+		ADDED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml
+		ADDED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml:5:5-18:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\24f2e8e73a5f913b3769eb53b0941ee0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\24f2e8e73a5f913b3769eb53b0941ee0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\4f591dcfb21b3876fc6c4be9d9250ad9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\4f591dcfb21b3876fc6c4be9d9250ad9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\eb20d08ac8138cf07b6f0a2d87499873\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\eb20d08ac8138cf07b6f0a2d87499873\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\2e2f61d5074c0790fbe6d9a280013e1d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\2e2f61d5074c0790fbe6d9a280013e1d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\b422c06772870b03540d601a58a4e1aa\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\b422c06772870b03540d601a58a4e1aa\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\2adcaf9a011da29d75d70e0bb3091a9a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\2adcaf9a011da29d75d70e0bb3091a9a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\9fe3ee5d570ef57c079cb289c0f01988\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\9fe3ee5d570ef57c079cb289c0f01988\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\6de92217c8f3454eab232eb0aa7f41fe\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\6de92217c8f3454eab232eb0aa7f41fe\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\feb8adb54075c27af91e6944055d1c35\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\feb8adb54075c27af91e6944055d1c35\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\3ad9c1d88baef7e301c4859e24660c96\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\3ad9c1d88baef7e301c4859e24660c96\AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.helloneon.HelloNeon
+ADDED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml:11:19-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml
+INJECTED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\24f2e8e73a5f913b3769eb53b0941ee0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\24f2e8e73a5f913b3769eb53b0941ee0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\4f591dcfb21b3876fc6c4be9d9250ad9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\4f591dcfb21b3876fc6c4be9d9250ad9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\eb20d08ac8138cf07b6f0a2d87499873\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\eb20d08ac8138cf07b6f0a2d87499873\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\2e2f61d5074c0790fbe6d9a280013e1d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\2e2f61d5074c0790fbe6d9a280013e1d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\b422c06772870b03540d601a58a4e1aa\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\b422c06772870b03540d601a58a4e1aa\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\2adcaf9a011da29d75d70e0bb3091a9a\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\2adcaf9a011da29d75d70e0bb3091a9a\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\9fe3ee5d570ef57c079cb289c0f01988\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\9fe3ee5d570ef57c079cb289c0f01988\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\6de92217c8f3454eab232eb0aa7f41fe\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\6de92217c8f3454eab232eb0aa7f41fe\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\feb8adb54075c27af91e6944055d1c35\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\feb8adb54075c27af91e6944055d1c35\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\3ad9c1d88baef7e301c4859e24660c96\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\3ad9c1d88baef7e301c4859e24660c96\AndroidManifest.xml:21:5-23:58
+INJECTED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml
+INJECTED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\24f2e8e73a5f913b3769eb53b0941ee0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml
+		ADDED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml
+		INJECTED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml
+		ADDED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml
+		INJECTED from G:\android_ndk_demo\hello-neon\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\24f2e8e73a5f913b3769eb53b0941ee0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\eb20d08ac8138cf07b6f0a2d87499873\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\eb20d08ac8138cf07b6f0a2d87499873\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\2e2f61d5074c0790fbe6d9a280013e1d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\2e2f61d5074c0790fbe6d9a280013e1d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\b422c06772870b03540d601a58a4e1aa\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\b422c06772870b03540d601a58a4e1aa\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\2adcaf9a011da29d75d70e0bb3091a9a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\2adcaf9a011da29d75d70e0bb3091a9a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\9fe3ee5d570ef57c079cb289c0f01988\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\9fe3ee5d570ef57c079cb289c0f01988\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\6de92217c8f3454eab232eb0aa7f41fe\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\6de92217c8f3454eab232eb0aa7f41fe\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\feb8adb54075c27af91e6944055d1c35\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\feb8adb54075c27af91e6944055d1c35\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\3ad9c1d88baef7e301c4859e24660c96\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\3ad9c1d88baef7e301c4859e24660c96\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\24f2e8e73a5f913b3769eb53b0941ee0\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\24f2e8e73a5f913b3769eb53b0941ee0\AndroidManifest.xml:27:13-51
